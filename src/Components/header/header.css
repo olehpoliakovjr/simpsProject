@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 160px;
+    height: 100px;
+}
+
+
+.header-nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+}
+
+.nav-item{
+    padding: 0 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    opacity: 0.8;
+    transition: 0.1s;
+}
+
+.nav-intem:hover{
+    opacity: 1;
+}
+
+.nav-item-link{
+    text-decoration: none;
+    color: black;
+}
