@@ -1,0 +1,11 @@
+.firstBlock-apps-list-item{
+    position: relative;
+    height: 70px;
+    width: 70px;
+    border-radius: 30%;
+    margin: 0 60px;
+    transition: 0.2s ease;
+}
+.firstBlock-apps-list-item:hover{
+    box-shadow: 1px 0px 20px 10px rgb(251, 224, 72);;
+}

@@ -45,7 +45,7 @@ body {
 input,
 button,
 textarea {
-    font-family: inherit;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 input::-ms-clear {
@@ -78,7 +78,7 @@ img {
     vertical-align: top;
 }
 /* .wrapperContainer{
-    background-color: rgb(216, 216, 53);
+    background-color: rgb(255, 255, 0);
 } */
 .container{
     max-width: 1200px;
